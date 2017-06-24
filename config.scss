@@ -1,6 +1,6 @@
 $thematic-break-line-background-colors-support-parser: (
     color: 'background-inner-color'
-);
+) !default;
 
 $thematic-break-line-background-colors-support-extra-colors-palette: () !default;
 $thematic-break-line-background-colors-support-skip-colors-palette: null !default;
