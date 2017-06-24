@@ -1,0 +1,32 @@
+{
+    "name": "gridi-framework-thematic-break-line-bg-colors-sprt",
+    "description": "",
+    "main": "",
+    "authors": [
+        "Przemysław Dziadek <przemyslaw.dziadek@gmail.com>"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "css",
+        "scss",
+        "gridi",
+        "framework",
+        "thematic-break-line",
+        "background",
+        "colors",
+        "support"
+    ],
+    "homepage": "https://github.com/gridi-framework/gridi-framework-thematic-break-line-bg-colors-sprt",
+    "ignore": [
+        "**/.*",
+        "**/*.md",
+        "**/*.js",
+        "**/*.json",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "gridi-framework-thematic-break-line": "*",
+        "gridi-framework-bg-colors": "*"
+    }
+}
